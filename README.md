@@ -27,8 +27,8 @@ This project implements a conversational AI agent for a fictional SaaS product c
 
 ### 1. Clone and set up environment
 ```bash
-git clone <repo-url>
-cd <repo-name>
+git clone https://github.com/nithya7089/autostream-social-to-lead-agent
+cd autostream-social-to-lead-agent
 python3 -m venv venv
 source venv/bin/activate
 
